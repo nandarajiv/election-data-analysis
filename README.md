@@ -26,3 +26,17 @@ There have been reports on a correlation between high voter turrnout and greater
 The dataset provided can be used to evaluate this claim and see if it is extendable to the Lok Sabha elections.
 
 On selecting the top performing candidates in each constituency, and seeing their margins of victory, we can actually see that it is fairly independent. By and large, the margins of victory is very low, despite a range of turnour percentages. There was no observable relationship for 2014 and 2019 in terms of win margin and turnout percentage.
+
+## B. Classification
+
+The problem chosen is to identify whether a certain candidate is a member of a national party or not. In light of the rise of regionalism, and as national colaitions increasingly vie for regional parties support and endorsement in order to secure stronghold in states that otherwise do not often feel very represented in national elections, gaining understading of correlations between a candidate being of a national party and their success could be an important task.
+
+## C. Paper Reading 
+
+The paper read was 'Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate
+Political Strategies'. The report on the paper can be found in the folder reading_task. 
+
+## D. Instructions to Run Code
+
+Dependencies used include pandas, numpy, scikit-learn, matplotlib, etc. 
+Before running the code, please ensure the paths and filenames are correct, and all dependencies are installed. 
