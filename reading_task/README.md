@@ -1,5 +1,5 @@
 ## Precog Elections 2024 Application
-#### Paper reading Task
+#### Paper Reading Task
 #### Title: Framing and Agenda-setting in Russian News: a Computational Analysis of Intricate Political Strategies
 
 The paper looks into how the Russian government uses the media to influence public opinion through techniques of framing and agenda-setting. The authors employ computational methodology to study Russian newspaper <i>Izvestia</i> over a period of thirteen years, which despite a brief period of autonomy, has become strongly influenced by the government. They postulate that the more direct methods such as censorship and "fake news" which are easier to identify, have gained a great deal of attention in the contexts of Russia and China, but authoritarian governments also use more subtle techniques of framing and agenda-setting, which are also powerful tools to influence public perception.
