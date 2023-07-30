@@ -4,7 +4,7 @@
 
 The paper looks into how the Russian government uses the media to influence public opinion through techniques of framing and agenda-setting. The authors employ computational methodology to study Russian newspaper <i>Izvestia</i> over a period of thirteen years, which despite a brief period of autonomy, has become strongly influenced by the government. They postulate that the more direct methods such as censorship and "fake news" which are easier to identify, have gained a great deal of attention in the contexts of Russia and China, but authoritarian governments also use more subtle techniques of framing and agenda-setting, which are also powerful tools to influence public perception.
 
-<b>Methds used for Analysing Agenda-Setting:</b>
+<b>Methods used for Analysing Agenda-Setting:</b>
 - Correlations: The authors' hypothesis that news focused on US coverage is used to distract the public from negative economic events, and use correlations to find that it is in fact a clear negative correlation between the Russian GDP and % of Articles on USA in the paper.
 - Granger Causaility: Effects based on the key concept that cause precedes effect in time. This was able to establish that a decline in the stock market usually precedes (by about one month) an uptick of articles focused on the USA.
 
